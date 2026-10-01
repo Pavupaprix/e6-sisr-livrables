@@ -12,6 +12,6 @@ Ce dépôt public contient **uniquement ce qui est remis au formateur** : fiches
 | Fiche descriptive de la réalisation 2 | [`02-fiche-descriptive-R2.md`](02-fiche-descriptive-R2.md) | ⬜ |
 | Tableau de l'environnement technologique (annexe II.E) | [`03-environnement-annexe-II-E.md`](03-environnement-annexe-II-E.md) | ⬜ |
 | Annexes : schémas, scripts, procédures, captures | [`annexes/`](annexes/) | ⬜ |
-| Rendus de séance | [`seances/`](seances/) | 🟠 S1 : [auto-diagnostic](seances/S01-auto-diagnostic.md) |
+| Rendus de séance | [`seances/`](seances/) | 🟠 S1 : [auto-diagnostic](seances/S01-auto-diagnostic.md), [règles du jeu](seances/S01-regles-du-jeu.md) |
 
 La page de garde (nom, établissement, visa du formateur, attestation signée) n'est **pas** publiée ici : elle figure dans le dossier remis officiellement.
