@@ -34,7 +34,7 @@
    non conformité des documents rendu, de l'environnement et le non rendu des realisations 
    
    
-1. Qu'est-ce qui m'inquiète le plus, et qu'est-ce que j'attends de ces séances ?
+6. Qu'est-ce qui m'inquiète le plus, et qu'est-ce que j'attends de ces séances ?
    
    le niveau attendu et le temps imparti, trouver un projet d'entreprise, le formalisme attendu et les attentes du jury. 
    
